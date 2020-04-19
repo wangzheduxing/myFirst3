@@ -1,4 +1,6 @@
 h1{
     font-size: 40px;
     color: brown;
+    text-decoration: line-through;
+    border: 1px solid blue;
 }
