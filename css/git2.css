@@ -4,3 +4,7 @@ h1{
     text-decoration: line-through;
     border: 1px solid blue;
 }
+p{
+    font-size: 30px;
+    color: red;
+}
